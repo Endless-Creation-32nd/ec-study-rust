@@ -25,4 +25,4 @@
 
 ## References
 
-https://doc.rust-lang.org/book/title-page.html
+document: https://doc.rust-lang.org/book/title-page.html
