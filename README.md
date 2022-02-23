@@ -2,9 +2,9 @@
 
 ## INDEX
 
-- [ch1: Getting Started]('/ch1')
-- [ch2: Programming a Guessing Game]('/ch2')
-- [ch3: Common Programming Concepts]('/ch3')
+- [ch1: Getting Started](./ch1/index.md)
+- [ch2: Programming a Guessing Game](./ch2/index.md)
+- [ch3: Common Programming Concepts](./ch3/index.md)
 - ch4: Understanding Ownership
 - ch5: Using Structs to Structure Related
 - ch6: Enums and Pattern Matching
