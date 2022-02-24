@@ -5,7 +5,7 @@
 - [ch1: Getting Started](./ch1/index.md)
 - [ch2: Programming a Guessing Game](./ch2/index.md)
 - [ch3: Common Programming Concepts](./ch3/index.md)
-- ch4: Understanding Ownership
+- [ch4: Understanding Ownership](./ch4/index.md)
 - ch5: Using Structs to Structure Related
 - ch6: Enums and Pattern Matching
 - ch7: Managing Growing Projects with Packages, Crates, and Modules
