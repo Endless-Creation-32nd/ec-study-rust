@@ -1,18 +1,22 @@
-fn main() {
-    struct User {
-        username: String,
-        email: String,
-        sign_in_count: u64,
-        active: bool,
-    }
+struct Rectangle {
+    length: u32,
+    width: u32,
+}
 
-    let mut user1 = User {
-        email: String::from("someone@example.com"),
-        username: String::from("someusername123"),
-        active: true,
-        sign_in_count: 1,
+impl Rectangle {
+    fn area(&self) -> u32 {
+        self.length * self.width
+    }
+}
+
+fn main() {
+    let rect1 = Rectangle {
+        length: 50,
+        width: 30,
     };
 
-    user1.email = String::from("anotheremail@example.com");
-    println!("{}", user1.email);
+    println!(
+        "The area of the rectangle is {} square pixels.",
+        rect1.area()
+    );
 }
