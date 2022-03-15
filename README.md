@@ -7,7 +7,7 @@
 - [ch3: Common Programming Concepts](./ch3/index.md)
 - [ch4: Understanding Ownership](./ch4/index.md)
 - [ch5: Using Structs to Structure Related](./ch5/index.md)
-- ch6: Enums and Pattern Matching
+- [ch6: Enums and Pattern Matching](./ch6/index.md)
 - ch7: Managing Growing Projects with Packages, Crates, and Modules
 - ch8: Common Collections
 - ch9: Error Handling
