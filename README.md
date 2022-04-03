@@ -10,7 +10,7 @@
 - [ch6: Enums and Pattern Matching](./ch6/index.md)
 - [ch7: Managing Growing Projects with Packages, Crates, and Modules](./ch7/index.md)
 - [ch8: Common Collections](./ch8/index.md)
-- ch9: Error Handling
+- [ch9: Error Handling](./ch9.index.md)
 - ch10: Generic Types, Traits, and Lifetimes
 - ch11: Writing Automated Tests
 - ch12: AN I/O Project: Building a Command Line Program
